@@ -1,5 +1,5 @@
-![DSPLAY - Digital Signage](https://developers.dsplay.tv/assets/images/dsplay-logo.png)
+![YESPLAY - Digital Signage](https://developers.dsplay.tv/assets/images/dsplay-logo.png)
 
-# DSPLAY - Chamador Loterias Caixa
+# YESPLAY - Chamador Senha
 
 ![Screenshot](docs/images/screenshot.png)
